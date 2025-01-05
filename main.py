@@ -52,4 +52,4 @@ if accuracy < 0.8:
 
 import joblib
 
-joblib.dump(knn, 'my_model.joblib')
+joblib.dump(knn, 'my_pa.joblib')

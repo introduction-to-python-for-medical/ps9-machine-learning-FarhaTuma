@@ -1,2 +1,2 @@
-path: "my_pa.joblib"
+path: "par.joblib"
 features: ['DFA', 'PPE']
